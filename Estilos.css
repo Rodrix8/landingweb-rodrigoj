@@ -66,14 +66,15 @@ header,nav,article,section,footer,aside {
         
             li {
                 list-style: none;
-                font: bold 15px 'Oswald', sans-serif;
-                color:rgb(247, 247, 247);
+                
                 display: inline-block;
                 padding: 5px 10px;
             }
 
             .menu li a {
                 padding: 2px;
+                font: bold 15px 'Oswald', sans-serif;
+                color:rgb(247, 247, 247);
 
             }
                   
