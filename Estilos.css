@@ -78,7 +78,7 @@ header,nav,article,section,footer,aside {
                 
             }
             
-            a {
+            a:link, a:visited, a:active {
                 text-decoration:none;
             }
                   
